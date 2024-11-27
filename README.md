@@ -6,6 +6,9 @@
 
 [Interserver List of Opensource](https://www.interserver.net/cloud-apps.html)
 
+## Open Source Cloud Computing
+[OpenStack](https://youtu.be/_gWfFEuert8?si=perc3Gv_hZEaVFS5)
+
 ## Web Framework - Rapid Development
 
 [Frappe](https://frappe.io/)
