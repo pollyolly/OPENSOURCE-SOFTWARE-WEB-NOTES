@@ -93,6 +93,10 @@ PHP - [PHPLIST](https://www.phplist.org/)
 ## FORUM
 [Kunena](https://www.kunena.org/)
 
+[MyBB](https://mybb.com/) - used in symbianize
+
+[bbPres](https://bbpress.org/)
+
 ## Tools
 
 [Grantt Chart](https://frappe.io/gantt)
